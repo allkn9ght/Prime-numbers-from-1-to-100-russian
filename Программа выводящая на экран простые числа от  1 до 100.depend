@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695995339 source:c:\users\123\desktop\3 курс\Уч\Денис\Программа выводящая на экран простые числа от  1 до 100\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
